@@ -1,0 +1,3 @@
+Fuzzifier : A demonstration of usage of fuzzy logic which can be used in various fields
+including AI, engineering, computer science, operations research, robotics, pattern
+recognition etc.
