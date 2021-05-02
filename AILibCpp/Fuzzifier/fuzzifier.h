@@ -3,7 +3,7 @@ class category
 {
 private:
 	char name[30];
-	float lowval, highval, midval;
+	float lowval, highval, midval;					//Represent the values on the graph
 
 public:
 	category() {};
